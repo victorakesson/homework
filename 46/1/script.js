@@ -1,7 +1,3 @@
-const firstName = 'Frodo'
-const lastName = 'Baggins'
+const namn= "Victor"
 
-// Skriv om nedanstående rad
-const greeting = 'Hello there ' + firstName + ' ' + lastName + '!'
-
-console.log(greeting)
+const stringInterpolation = `My name is: ${namn}`
